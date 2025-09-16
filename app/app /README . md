@@ -1,0 +1,11 @@
+# Anoma dApp
+
+🚀 A simple decentralized application (dApp) built with **Next.js** and **TailwindCSS**, designed as a starting point for Anoma development.
+
+## 📌 Features
+- ⚡ Next.js 14 (App Router)
+- 🎨 TailwindCSS styling
+- 🦊 Web3 wallet-ready setup (Wagmi & Viem)
+- 📱 Responsive UI
+
+## 📂 Project Structure
